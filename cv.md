@@ -10,7 +10,7 @@ nikitsin.artur@gmail.com
 #### Summary
 
 ---
-<strong>Junior JavaScript developer</strong>  with good knowledge of syntax and principles of OOP. <br>
++ Junior JavaScript developer with good knowledge of syntax and principles of OOP. <br>
 I always strive to learn new things, quickly learn and try to do the tasks efficiently and on time.
 ---
 #### Skills
