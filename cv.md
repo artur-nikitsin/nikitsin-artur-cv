@@ -25,9 +25,8 @@ I always strive to learn new things, quickly learn and try to do the tasks effic
  ---
  #### Sample of code
    
-
  
- [My profile on GitHub](https://github.com/artur-nikitsin)
+ + [My profile on GitHub](https://github.com/artur-nikitsin)
  
  ---
   #### Professional Experience 
