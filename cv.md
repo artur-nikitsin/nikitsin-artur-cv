@@ -46,3 +46,8 @@ I always strive to learn new things, quickly learn and try to do the tasks effic
 + Mifort Sulutions courses within the company (frontend development)      (Feb. 2018 - Apr. 2018) 
 + Study on learn.javascript.ru.
 + Study on 	Codecademy (Javascript)
+---
+####Education
+
++ Language skills:
+    +	English - Pre-intermediate
