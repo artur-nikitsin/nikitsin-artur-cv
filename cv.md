@@ -23,13 +23,13 @@ I always strive to learn new things, quickly learn and try to do the tasks effic
 + Development Tools:
    + Webpack, GIT, Webstorm, NODE.js , NPM
  ---
- #### Sample of code
+#### Sample of code
    
  
  + [My profile on GitHub](https://github.com/artur-nikitsin)
  
  ---
-  #### Professional Experience 
+#### Professional Experience 
  
  + Personal graduation project on the courses BelHARD - Landing Page   
      + [See on GitHub](https://github.com/artur-nikitsin/BelHard)
@@ -46,7 +46,6 @@ I always strive to learn new things, quickly learn and try to do the tasks effic
 + Study on learn.javascript.ru.
 + Study on 	Codecademy (Javascript)
 ---
-#### Education
+#### Language skills:
 
-+ Language skills:
-    +	English - Pre-intermediate
++ English - Pre-intermediate
