@@ -1,4 +1,4 @@
-###Artur Nikitsin
+### Artur Nikitsin
 
 ---
 
@@ -7,13 +7,13 @@ Minsk, 220138 <br>
 +375 (29) 7689421 <br>
 nikitsin.artur@gmail.com
 
-####Summary
+#### Summary
 
 ---
 <strong>Junior JavaScript developer</strong>  with good knowledge of syntax and principles of OOP. <br>
 I always strive to learn new things, quickly learn and try to do the tasks efficiently and on time.
 ---
-####Skills
+#### Skills
 
 
 + Front-End:
@@ -23,14 +23,14 @@ I always strive to learn new things, quickly learn and try to do the tasks effic
 + Development Tools:
    + Webpack, GIT, Webstorm, NODE.js , NPM
  ---
- ####Sample of code
+ #### Sample of code
    
 
  
  [My profile on GitHub](https://github.com/artur-nikitsin)
  
  ---
-  ####Professional Experience 
+  #### Professional Experience 
  
  + Personal graduation project on the courses BelHARD - Landing Page   
      + [See on GitHub](https://github.com/artur-nikitsin/BelHard)
@@ -40,14 +40,14 @@ I always strive to learn new things, quickly learn and try to do the tasks effic
       + [See on GitHub](https://github.com/artur-nikitsin/Training-team-4)
       
 ---
-####Education
+#### Education
 + Minsk State architecture - building College  (Sep. 2011 - Jun. 2014)
 + BelHARD courses of modern  frontend development (Aug. 2017 - Oct. 2017) 
 + Mifort Sulutions courses within the company (frontend development)      (Feb. 2018 - Apr. 2018) 
 + Study on learn.javascript.ru.
 + Study on 	Codecademy (Javascript)
 ---
-####Education
+#### Education
 
 + Language skills:
     +	English - Pre-intermediate
