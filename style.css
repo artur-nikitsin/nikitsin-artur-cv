@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+#container {
+    width: 1024px;
+    padding: 20px;
+    border: 1px dashed black;
+}
+
+#summary-header {
+    display: flex;
+    justify-content: space-between;
+}
