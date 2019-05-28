@@ -4,7 +4,7 @@
 
 59-3 GEOLOGICHESKAYA,  Apt.  12 <br>
 Minsk, 220138 <br>
-+375 (29) 7689421 <br>
++375 (29) 768-94-21 <br>
 nikitsin.artur@gmail.com
 
 #### Summary
