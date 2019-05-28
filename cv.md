@@ -18,7 +18,7 @@ I always strive to learn new things, quickly learn and try to do the tasks effic
 
 + Front-End:
   + HTML5, CSS , JavaScript (including JQuery, React, Angular 1.x), UI libraries(react-bootstrap,
-   Materil UI)
+   Material UI)
   
 + Development Tools:
    + Webpack, GIT, Webstorm, NODE.js , NPM
