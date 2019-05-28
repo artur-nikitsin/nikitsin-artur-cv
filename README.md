@@ -1,1 +1,1 @@
-https://artur-nikitsin.github.io/rsschool-2019Q1-cv/cv
+https://artur-nikitsin.github.io/nikitsin-artur-cv/cv
