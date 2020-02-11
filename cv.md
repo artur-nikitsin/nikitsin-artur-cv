@@ -38,7 +38,7 @@ I always strive to learn new things, quickly learn and try to do the tasks effic
   interviews with them.     
       + [See on GitHub](https://github.com/artur-nikitsin/Training-team-4)
  + CURRENT LAST PROJECT. Internet-shop. SPA (React+Redux+React-router) (in progress).  
-      + [See on GitHub](https://github.com/artur-nikitsin/Training-team-4)
+      + [See on GitHub](https://github.com/artur-nikitsin/derevenskoe)
       
 ---
 #### Education
