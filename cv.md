@@ -50,5 +50,5 @@ I always strive to learn new things, quickly learn and try to do the tasks effic
 + Self learning
 ---
 #### Language skills:
-
++ Russian: native
 + English - Pre-intermediate
